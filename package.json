@@ -1,0 +1,14 @@
+{
+  "name": "motd",
+  "version": "1.0.0",
+  "description": "create motd for the ggg server",
+  "main": "motd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "ftp": "^0.3.10"
+  }
+}
